@@ -149,12 +149,13 @@ ul {
     background: var(--CLOUD, #F4F4FD);
 }
 
-.team-list-heading {
+.team-heading {
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
     letter-spacing: 0.02em;
-    text-transform: capitalize
+    text-transform: capitalize;
+    color: #2e2f42;
 }
 
 .team-list-item {
